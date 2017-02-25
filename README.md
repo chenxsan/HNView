@@ -6,6 +6,10 @@ A browser extension for chrome/firefox making hacker news style not that terribl
 
 I read a lot on hacker news, and let's commit it, the style is terrible for reading.
 
+## Addon Link
+
+[HNView on chrome web store](https://chrome.google.com/webstore/detail/hnview/chjbbjpkobcnbeldkjkgbdnjpjmpndmk)
+
 ## Screenshots
 
 ### Home page
