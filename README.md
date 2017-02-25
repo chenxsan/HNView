@@ -10,6 +10,8 @@ I read a lot on hacker news, and let's commit it, the style is terrible for read
 
 [HNView on chrome web store](https://chrome.google.com/webstore/detail/hnview/chjbbjpkobcnbeldkjkgbdnjpjmpndmk)
 
+[HNView firefox addon](https://addons.mozilla.org/en-US/firefox/addon/hnviewer/)
+
 ## Screenshots
 
 ### Home page
