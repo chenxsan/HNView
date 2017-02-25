@@ -1,0 +1,52 @@
+/* 
+  common
+ */
+#hnmain {
+  width: 80% !important;
+}
+/*
+  home page
+ */
+.athing > .title {
+  line-height: 3 !important;
+}
+.title, .votelinks {
+  vertical-align: middle !important;
+}
+.title {
+  font-size: 16px !important;
+}
+
+/*
+  comment page
+ */
+.comment-tree {
+  border-collapse: collapse !important; 
+}
+.comhead {
+  font-size: 18px !important;
+}
+.athing.comtr {
+  border-top: 1px solid #ccc !important;
+}
+.athing.comtr .comment {
+  font-size: 16px !important;
+  line-height: 1.6 !important;
+  padding: 0 20px !important;
+  color: #131516 !important;
+}
+.athing.comtr > td {
+  padding: 0 !important;
+}
+.athing.comtr > td > table {
+  margin: 10px 0 !important;
+}
+.athing.comtr:nth-of-type(even) >td > table {
+  padding: 10px 0 !important;
+}
+.c00 a:link {
+  color: #2196f3 !important;
+}
+.default p {
+  margin-top: 20px !important;
+}
